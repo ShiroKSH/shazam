@@ -1,0 +1,4 @@
+sounddevice
+soundfile
+numpy
+shazamio>=0.6.0
