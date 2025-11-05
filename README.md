@@ -7,8 +7,9 @@
 
 ### Runtime
 - **Qt 6** (Widgets, Concurrent) + MinGW toolchain.
-- **Python 3.9+** (в PATH или укажи переменную `SHAZAM_PYTHON`).
+- **Python 3.9+**
 - Питон-пакеты:
   ```bash
   pip install -r requirements.txt
+
 
